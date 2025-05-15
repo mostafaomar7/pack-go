@@ -104,7 +104,7 @@ a:hover{
 .header-z .cart-item-container{
     position: absolute;
     top: 100%;
-    right: -100%;
+    right: -150%;
     background-color: #fff;
     padding: 0 1.5rem;
     height: 80vh;
